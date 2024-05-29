@@ -5,7 +5,7 @@
  </picture>
 </h1>
 
-# Running Elixir App: A Step-by-Step Guide
+# Start Elixir App: A Step-by-Step Guide
 
 
 ## **Step 1: Install Erlang**
