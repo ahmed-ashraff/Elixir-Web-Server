@@ -4,6 +4,7 @@
   <img alt="Elixir logo" src="https://github.com/elixir-lang/elixir-lang.github.com/raw/main/images/logo/logo.png" width="200">
  </picture>
 </h1>
+
 # Installing Elixir: A Step-by-Step Guide
 
 
